@@ -1,0 +1,11 @@
+
+streamlit
+langchain-ollama
+langchain-chroma
+langchain-community
+langchain-text-splitters
+chromadb
+pypdf
+requests
+# optional for tricky PDFs:
+# pypdfium2
